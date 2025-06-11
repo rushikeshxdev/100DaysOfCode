@@ -1,0 +1,7 @@
+✅ Day 1: Setting the Foundation
+🚀 Day 1 of #100DaysOfCode
+•	Revised C++ basics (syntax, loops, conditionals)
+•	Practiced logic building with pattern problems
+•	Built a basic personal profile webpage using HTML & CSS
+🔁 Starting from the ground up to build strong fundamentals!
+#WebDev #DSA #Cplusplus #MERNStack #Frontend
