@@ -1,0 +1,8 @@
+<button id="eventBtn">Click Me</button>
+
+<script>
+  const btn = document.getElementById("eventBtn");
+  btn.addEventListener("click", () => {
+    alert("Button clicked!");
+  });
+</script>

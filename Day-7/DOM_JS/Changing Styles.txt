@@ -1,0 +1,10 @@
+<p id="colorPara">Color me!</p>
+<button onclick="changeColor()">Change Color</button>
+
+<script>
+  function changeColor() {
+    const p = document.getElementById("colorPara");
+    p.style.color = "red";
+    p.style.fontSize = "20px";
+  }
+</script>

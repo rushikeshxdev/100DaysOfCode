@@ -1,0 +1,10 @@
+<!-- index.html -->
+<p id="demo">Original Text</p>
+<button onclick="changeText()">Change Text</button>
+
+<script>
+  function changeText() {
+    const para = document.getElementById("demo");
+    para.innerText = "Text has been changed!";
+  }
+</script>
